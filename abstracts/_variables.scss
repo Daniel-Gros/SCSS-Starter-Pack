@@ -1,0 +1,38 @@
+//Colors
+
+$primary-color : /* fill*/;
+$secondary-color :/* fill*/ ; 
+$tertiary-color :/* fill*/ ;
+$danger-color :/* fill*/ ;
+$success-color :/* fill*/ ;
+$warning-color :/* fill*/ ;
+$info-color :/* fill*/ ;
+$font-color :/* fill*/ :
+
+// Font families
+$font-family-title :/* fill*/;
+$font-family-base :/* fill*/;
+
+// Text sizes
+$font-size-small :/* fill*/;
+$font-size-medium :/* fill*/;
+$font-size-large :/* fill*/;
+$font-h1-size :/* fill*/ ;
+$font-h2-size :/* fill*/ ;
+$font-h3-size :/* fill*/ ;
+$font-h4-size :/* fill*/ ;
+$font-h5-size :/* fill*/ ;
+$font-h6-size :/* fill*/ ;
+$font-size-base :/* fill*/ ;
+
+
+
+// Breakpoints
+$breakpoints: (
+    "xs": 320px,
+    "sm": 576px,
+    "md": 768px,
+    "lg": 992px,
+    "xl": 1200px,
+    "xxl": 1400px,
+);
